@@ -23,4 +23,4 @@
 **sum.cpp:** I stored the calculation in a variable before printing because it makes the code easier to read and allows the total to be reused later.
 **mpg.cpp:** I used `double` data types, so C++ calculates the exact decimal. If I used integer variables, C++ would drop the decimal completely, making the MPG inaccurate.
 
-*Note: I restored the originally assigned values before uploading.*
+
