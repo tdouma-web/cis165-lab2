@@ -1,5 +1,5 @@
 # CIS-165 Lab 2
-**Name:** Theothoros Douma
+**Name:** Theo Douma
 **Section:** CIS-165-W099
 
 ## Initial Plans
